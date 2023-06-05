@@ -1,6 +1,5 @@
 # bigdata_project02
-MDB ANALYSIS (PROJECT 2) 
-
+IMDB ANALYSIS 
 This project utilizes IMDb datasets to explore and answer various questions related to movies, actors, genres, and job categories.
 
 The dataset is preprocessed and combined using PySpark, a robust tool for data processing and manipulation. The IMDb dataset contains information such as movie titles, genres, actors, and ratings.
